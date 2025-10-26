@@ -1,1 +1,1 @@
-{"confidence":0.66,"note":"paper drill","targets":{"QQQ":-0.05,"SPY":0.35},"ts":"2025-10-25T21:36:45Z"}
+{"confidence":0.7,"note":"Maintaining core SPY long exposure while reducing QQQ short position to manage risk. Cash position preserved for potential opportunities. Research from [portfoliovisualizer.com](https://www.portfoliovisualizer.com/) suggests balanced portfolio approaches outperform in various market conditions.","targets":{"QQQ":-0.25,"SPY":0.85},"ts":"2025-10-26T21:57:41.214Z"}
