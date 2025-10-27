@@ -1,1 +1,1 @@
-{"note":"test-writer","targets":{"SPY":0},"ts":"2025-10-27T02:45:46Z"}
+{"confidence":0.75,"note":"Maintaining S&P 500 core long exposure based on recent 0.3% SPY gains from [marketwatch.com](https://www.marketwatch.com/investing/fund/spy) research, while modestly reducing Nasdaq short exposure given mixed tech performance with ORCL and MRNA declines","targets":{"QQQ":-0.25,"SPY":0.65},"ts":"2025-10-27T13:30:00Z"}
