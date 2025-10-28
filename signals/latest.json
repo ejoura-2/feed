@@ -1,1 +1,1 @@
-{"targets":{"IWM":0.4,"QQQ":-0.3,"SPY":0.0,"XLE":0.3},"ts":"2025-10-28T18:37:19Z"}
+{"confidence":0.75,"note":"Closing short QQQ position to lock in gains, maintaining SPY exposure, adding XLK for tech sector momentum based on strong 60m performance (+0.315%) and bounce from low levels. Market showing tech strength while financials/energy weak.","targets":{"QQQ":0.0,"SPY":0.6,"XLK":0.4},"ts":"2025-10-28T18:37:24Z"}
