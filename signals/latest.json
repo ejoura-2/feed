@@ -1,1 +1,1 @@
-{"confidence":0.7,"note":"Increasing IWM long exposure based on Morningstar Q4 outlook identifying small-caps as undervalued [morningstar.com](https://global.morningstar.com/en-ea/markets/q4-2025-stock-market-outlook-no-margin-error). Adding XLE long as energy remains undervalued per same outlook. Maintaining core SPY position. Full short exposure on QQQ as tech remains overvalued despite recent bounce.","targets":{"IWM":0.8,"QQQ":-1.0,"SPY":0.6,"XLE":0.4},"ts":"2025-10-28T18:37:01Z"}
+{"targets":{"IWM":0.4,"QQQ":-0.3,"SPY":0.0,"XLE":0.3},"ts":"2025-10-28T18:37:19Z"}
